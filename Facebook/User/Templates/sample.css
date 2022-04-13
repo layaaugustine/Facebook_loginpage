@@ -1,0 +1,78 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 90px;
+
+}
+
+body{
+    margin: 0;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 30px;
+    float: left;
+   
+    
+}
+
+.login{
+    width: 50%;
+    float: left;
+}
+
+.logo-text{
+    color: aliceblue;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+   
+}
+
+.forget-style{
+    color: white;
+    text-decoration: none;
+}
+
+.login-label{
+    color: white;
+    font-size: 13px;
+    text-decoration: none;
+}
+
+.login-controls{
+    margin-left: 150px;
+}
+.login{
+    padding-top: 10px;
+}
+
+.sub-btm{
+    background-color:#3b5998 ;
+    color: white;
+    border-color: #3b5998;
+    cursor: pointer;
+}
+
+.sub-btm:hover{
+    background: darkblue;
+}
+
+.left-section{
+    width: 50%;
+    float: left;
+}
+
+.right-section{
+    width: 50%;
+    float: left;
+}
+
+.main-body{
+    background: linear-gradient(white, #D3D8E8);
+    width: 100%;
+    height: 500PX;
+}
